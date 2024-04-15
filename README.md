@@ -19,6 +19,9 @@ CBS News - https://www.cbsnews.com/
 
 The Washington Post - https://www.washingtonpost.com/
 
+## Task Distriution
+
+[Git Project](https://github.com/orgs/BigDataIA-Spring2024-Sec2-Team2/projects/4)
 
 
 ## Tech Stack
